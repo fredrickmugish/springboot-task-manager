@@ -1,0 +1,9 @@
+2025-09-29 03:59:25.216881Z jdbc[13]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Syntax error in SQL statement "[*]DESCRIPTION"; expected "DELETE, DROP"; SQL statement:
+DESCRIPTION [42001-232]
+2025-09-29 03:59:32.493004Z jdbc[13]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Syntax error in SQL statement "[*]DESCRIPTION"; expected "DELETE, DROP"; SQL statement:
+DESCRIPTION [42001-232]
+2025-09-29 04:02:21.359986Z jdbc[16]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Syntax error in SQL statement "SELECT *[*]TASK"; SQL statement:
+SELECT *TASK [42000-232]
